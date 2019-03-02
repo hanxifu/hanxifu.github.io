@@ -16,10 +16,15 @@
 title: Hanxi Fu
 email: hfudev@gmail.com
 description: A dad and a programmer.
+github_username:  hanxifu
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  hanxifu
+
 permalink: /:categories/:title:output_ext
+
+show_downloads: "false"
+google_analytics: UA-135496329-1
 
 # Build settings
 markdown: kramdown

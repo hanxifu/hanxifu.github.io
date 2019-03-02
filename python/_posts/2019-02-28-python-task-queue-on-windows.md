@@ -1,5 +1,7 @@
 ---
-tags: python task-queue django huey sqlite
+layout: post
+author: Hanxi Fu
+tags: [python, task-queue, django, huey, sqlite]
 ---
 
 ## Overview

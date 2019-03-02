@@ -1,9 +1,11 @@
 ---
-tags: python django
+layout: post
+author: Hanxi Fu
+tags: [python, django]
 ---
-I'm really tired of searching solutions everywhere.
+# Django Timezone Settings
 
-This article is about to set timezone in django.
+This article is about how to set timezone in django.
 
 Here's the snippet of code to set showing format in django.
 ```python
