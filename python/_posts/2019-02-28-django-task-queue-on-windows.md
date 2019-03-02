@@ -1,8 +1,9 @@
 ---
 layout: post
 author: Hanxi Fu
-tags: [python, task-queue, django, huey, sqlite]
+tags: [python, django]
 ---
+# Django Task Queue on Windows
 
 ## Overview
 
